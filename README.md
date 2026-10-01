@@ -42,4 +42,4 @@ Smart-contract code will be created only from October 14, during the hackathon p
 
 ## License
 
-This project was created as a hackathon MVP. The license and usage terms will be added separately.
+This project is distributed under MIT Licence.
